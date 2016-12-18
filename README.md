@@ -1,4 +1,6 @@
 # hello-world
 hello-world repository
 
-hi all.  this is a thing
+Hi there everybody.  Welcome to my Hello World thing!
+
+-This guy
